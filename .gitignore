@@ -2,10 +2,8 @@
 /vendor/
 /upload/
 /cache
-
+/Etc
 # Mengabaikan file ETC
-Sol1. Linear Regression.ipynb
-Sol2. KMeans_Clustering.ipynb
 
 # Mengabaikan File txt 
 *.txt
