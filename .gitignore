@@ -1,2 +1,14 @@
+# Mengabaikan direktori vendor, upload, dan cache
+/vendor/
+/upload/
+/cache
+
+# Mengabaikan file ETC
 Sol1. Linear Regression.ipynb
 Sol2. KMeans_Clustering.ipynb
+
+# Mengabaikan File txt 
+*.txt
+
+# Mengabaikan File pdf
+*.pdf
